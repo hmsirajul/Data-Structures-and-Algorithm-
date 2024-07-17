@@ -1,2 +1,2 @@
-# Data_Structures
- Lab_Task_Shorting 
+# Data_Structures_And_Algorithm 
+ Lab_Task_Sorting 
